@@ -1,0 +1,5 @@
+database dbname=ur_chat
+sql chat2.sql
+
+$/list
+chat2

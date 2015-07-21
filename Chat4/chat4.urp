@@ -1,0 +1,7 @@
+database dbname=ur_chat
+sql chat4.sql
+safeGet Chat4/Room/chat
+
+$/list
+log
+chat4

@@ -1,0 +1,4 @@
+*.sql
+howto
+*.exe
+.DS_Store

@@ -1,0 +1,6 @@
+database dbname=ur_chat
+sql chat3.sql
+
+$/list
+log
+chat3
