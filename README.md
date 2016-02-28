@@ -15,3 +15,5 @@ Download it from the [Ur/Web website](http://www.impredicative.com/ur/).
 ````$ cat chat1.sql | sqlite3 chat1.db````
 
 ````$ ./chat1.exe````
+
+Go to http://localhost:8080/Chat1/main
